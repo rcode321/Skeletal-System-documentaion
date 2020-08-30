@@ -2,6 +2,8 @@
 
 [![Technical Documentation Page](https://img.shields.io/badge/freecodecamp-Technical%20Documentation%20Page-brightgreen)](https://codepen.io/rafael-mendoza/pen/yWqoQp)
 
+[![CSS-GRID](https://img.shields.io/badge/CSS-GRID-blue)](https://css-tricks.com/snippets/css/complete-guide-grid/)
+
 > A project from Freecodecamp Responsive Web Design Certification Build a Technical Documentation Page Project. i created a Technical Documentation Page page base on a Skeletal System Info. all the information here @ [wikepedia](https://en.wikipedia.org/wiki/Human_skeleton)
 
 ## Table of contents
